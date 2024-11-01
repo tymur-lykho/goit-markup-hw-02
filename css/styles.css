@@ -95,15 +95,7 @@ a:focus {
   background-color: #ffffff;
 }
 
-.team-title,
-.portfolio-title {
-  color: #2e2f42;
-  font-weight: 700;
-  font-size: 36px;
-  letter-spacing: 0.02em;
-  line-height: 1.11;
-  text-align: center;
-  text-transform: capitalize;
+.advantages-title {
 }
 
 .advantages-item {
@@ -131,6 +123,17 @@ a:focus {
 /* #region Team Section */
 .team {
   background-color: #f4f4fd;
+}
+
+.team-title,
+.portfolio-title {
+  color: #2e2f42;
+  font-weight: 700;
+  font-size: 36px;
+  letter-spacing: 0.02em;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
 }
 
 .team-list {
