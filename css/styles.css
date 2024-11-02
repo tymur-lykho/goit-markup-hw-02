@@ -20,6 +20,38 @@ a:focus {
 }
 /* #endregion */
 
+/* #region Common */
+.advantages-subtitle,
+.team-subtitle,
+.portfolio-subtitle {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+}
+
+.advantages-text,
+.team-text,
+.portfolio-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.team-title,
+.portfolio-title {
+  color: #2e2f42;
+  font-weight: 700;
+  font-size: 36px;
+  letter-spacing: 0.02em;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+/* #endregion */
+
 /* #region Header */
 .nav {
 }
@@ -101,39 +133,11 @@ a:focus {
 .advantages-item {
 }
 
-.advantages-subtitle,
-.team-subtitle,
-.portfolio-subtitle {
-  color: #2e2f42;
-  font-weight: 500;
-  font-size: 20px;
-  letter-spacing: 0.02em;
-  line-height: 1.2;
-}
-
-.advantages-text,
-.team-text,
-.portfolio-text {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
 /* #endregion */
 
 /* #region Team Section */
 .team {
   background-color: #f4f4fd;
-}
-
-.team-title,
-.portfolio-title {
-  color: #2e2f42;
-  font-weight: 700;
-  font-size: 36px;
-  letter-spacing: 0.02em;
-  line-height: 1.11;
-  text-align: center;
-  text-transform: capitalize;
 }
 
 .team-list {
